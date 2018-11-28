@@ -6,9 +6,6 @@ drawChar	KEYWORD2
 setAddrWindow	KEYWORD2
 setWindow	KEYWORD2
 readAddrWindow	KEYWORD2
-startWrite	KEYWORD2
-writeColor	KEYWORD2
-endWrite	KEYWORD2
 pushColor	KEYWORD2
 pushColors	KEYWORD2
 fillScreen	KEYWORD2
@@ -39,7 +36,6 @@ getCursorY	KEYWORD2
 setTextColor	KEYWORD2
 setTextSize	KEYWORD2
 setTextFont	KEYWORD2
-setFreeFont	KEYWORD2
 setTextWrap	KEYWORD2
 setTextDatum	KEYWORD2
 setTextPadding	KEYWORD2
@@ -103,6 +99,8 @@ pushBitmap	KEYWORD2
 pushSprite	KEYWORD2
 setScrollRect	KEYWORD2
 scroll	KEYWORD2
+scrollWrapX	KEYWORD2
+scrollWrapY	KEYWORD2
 printToSprite	KEYWORD2
 frameBuffer	KEYWORD2
 setBitmapColor	KEYWORD2
